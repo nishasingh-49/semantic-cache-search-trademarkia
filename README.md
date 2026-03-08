@@ -359,6 +359,6 @@ Docker ensures reproducible builds and easy deployment.
 
 # Author
 
-Nisha Singh
+Nisha Singh<br>
 Computer Science Student  
 Machine Learning & Systems Enthusiast
